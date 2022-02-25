@@ -1,0 +1,230 @@
+Refuse to release persons or property	0
+Provide humanitarian aid	1
+Impose state of emergency or martial law	2
+Demonstrate or rally	3
+Deny responsibility	4
+Refuse to ease administrative sanctions	5
+Impose blockade, restrict movement	6
+Express intent to change policy	7
+Expel or withdraw peacekeepers	8
+Consider policy option	9
+Express intent to cooperate economically	10
+Accuse	11
+Ban political parties or politicians	12
+Demand rights	13
+Apologize	14
+Mobilize or increase police power	15
+Engage in material cooperation	16
+Forgive	17
+Demand humanitarian aid	18
+Complain officially	19
+Express intent to meet or negotiate	20
+Express intent to settle dispute	21
+Impose administrative sanctions	22
+Demand change in institutions, regime	23
+Threaten with military force	24
+Engage in violent protest for rights	25
+Physically assault	26
+Make pessimistic comment	27
+Expel or deport individuals	28
+Acknowledge or claim responsibility	29
+Carry out suicide bombing	30
+Receive deployment of peacekeepers	31
+Investigate human rights abuses	32
+Provide aid	33
+Demobilize armed forces	34
+Threaten with sanctions, boycott, embargo	35
+Express intent to accept mediation	36
+Appeal for military protection or peacekeeping	37
+Threaten to reduce or stop aid	38
+Ease curfew	39
+Violate ceasefire	40
+Defy norms, law	41
+Attempt to assassinate	42
+Ease political dissent	43
+Express intent to provide military aid	44
+Reject request for change in leadership	45
+Protest violently, riot	46
+Express intent to de-escalate military engagement	47
+Appeal for judicial cooperation	48
+Reject material cooperation	49
+Reduce or stop material aid	50
+Appeal for target to allow international involvement (non-mediation)	51
+Express intent to change institutions, regime	52
+Use as human shield	53
+Host a visit	54
+Impose restrictions on political freedoms	55
+fight with small arms and light weapons	56
+Demand material cooperation	57
+Criticize or denounce	58
+Express intent to yield	59
+Express intent to cooperate on judicial matters	60
+Return, release property	61
+Increase police alert status	62
+Reject judicial cooperation	63
+Threaten with repression	64
+Meet at a 'third' location	65
+Engage in diplomatic cooperation	66
+Assassinate	67
+Abduct, hijack, or take hostage	68
+Accede to demands for change in leadership	69
+Reject economic cooperation	70
+Conduct strike or boycott	71
+Engage in mass expulsion	72
+Demand that target yields	73
+Appeal for release of persons or property	74
+Engage in mass killings	75
+Express intent to provide economic aid	76
+Give ultimatum	77
+Impose embargo, boycott, or sanctions	78
+Praise or endorse	79
+fight with artillery and tanks	80
+Ease military blockade	81
+Appeal for economic aid	82
+Sexually assault	83
+Veto	84
+Obstruct passage, block	85
+Appeal to yield	86
+Seize or damage property	87
+Appeal for military aid	88
+Demand mediation	89
+Use conventional military force	90
+Express intent to change leadership	91
+Demand release of persons or property	92
+Reduce or break diplomatic relations	93
+Receive inspectors	94
+Appeal for humanitarian aid	95
+Appeal for political reform	96
+Return, release person(s)	97
+Reject	98
+Mediate	99
+Demand change in leadership	100
+Express intent to mediate	101
+Threaten with administrative sanctions	102
+Investigate war crimes	103
+Accede to demands for change in institutions, regime	104
+Demand economic aid	105
+Reject request for military aid	106
+Confiscate property	107
+Carry out car bombing	108
+Demand diplomatic cooperation (such as policy support)	109
+Ease state of emergency or martial law	110
+Increase military alert status	111
+Express intent to provide military protection or peacekeeping	112
+Express intent to cooperate militarily	113
+Express intent to provide humanitarian aid	114
+Demonstrate military or police power	115
+Appeal for easing of administrative sanctions	116
+Appeal for change in leadership	117
+Reject proposal to meet, discuss, or negotiate	118
+Appeal to others to settle dispute	119
+Rally support on behalf of	120
+Accuse of aggression	121
+Accede to demands for rights	122
+Employ aerial weapons	123
+Provide military protection or peacekeeping	124
+Reduce relations	125
+Appeal for policy change	126
+Destroy property	127
+Halt negotiations	128
+Accuse of espionage, treason	129
+Use chemical, biological, or radiological weapons	130
+Use tactics of violent repression	131
+Express intent to provide material aid	132
+Kill by physical assault	133
+Use unconventional violence	134
+Defend verbally	135
+Accuse of human rights abuses	136
+Appeal to engage in or accept mediation	137
+Demand	138
+Refuse to de-escalate military engagement	139
+Reduce or stop humanitarian assistance	140
+Ease administrative sanctions	141
+Appeal for economic cooperation	142
+Carry out roadside bombing	143
+Obstruct passage to demand leadership change	144
+Make statement	145
+Express intent to institute political reform	146
+Investigate crime, corruption	147
+Appeal for easing of economic sanctions, boycott, or embargo	148
+Reject military cooperation	149
+Express intent to ease administrative sanctions	150
+Declare truce, ceasefire	151
+Consult	152
+Demonstrate for leadership change	153
+Conduct suicide, car, or other non-military bombing	154
+Demand intelligence cooperation	155
+Demand easing of administrative sanctions	156
+Halt mediation	157
+Make optimistic comment	158
+Demand policy change	159
+Demonstrate for policy change	160
+Reject plan, agreement to settle dispute	161
+Reject request for military protection or peacekeeping	162
+Demand settling of dispute	163
+Threaten with political dissent, protest	164
+Grant diplomatic recognition	165
+Arrest, detain, or charge with legal action	166
+Refuse to ease economic sanctions, boycott, or embargo	167
+Bring lawsuit against	168
+Express intent to engage in diplomatic cooperation (such as policy support)	169
+Yield	170
+Share intelligence or information	171
+Appeal for de-escalation of military engagement	172
+Appeal for aid	173
+Threaten to halt negotiations	174
+Threaten	175
+Express intent to release persons or property	176
+Refuse to yield	177
+Cooperate economically	178
+Engage in symbolic act	179
+Make a visit	180
+Appeal for diplomatic cooperation (such as policy support)	181
+Mobilize or increase armed forces	182
+Express intent to engage in material cooperation	183
+Investigate	184
+Provide military aid	185
+Appeal to others to meet or negotiate	186
+Make empathetic comment	187
+Appeal for change in institutions, regime	188
+Ease economic sanctions, boycott, embargo	189
+Demand de-escalation of military engagement	190
+Demand judicial cooperation	191
+Make an appeal or request	192
+Demand meeting, negotiation	193
+Conduct hunger strike	194
+Demand material aid	195
+Demand political reform	196
+Coerce	197
+Express intent to cooperate	198
+Decline comment	199
+Accede to demands for change in policy	200
+Appeal for material cooperation	201
+Accuse of war crimes	202
+Threaten to reduce or break relations	203
+Express accord	204
+Rally opposition against	205
+Demand military aid	206
+Threaten non-force	207
+Discuss by telephone	208
+Express intent to cooperate on intelligence	209
+Reduce or stop economic assistance	210
+Grant asylum	211
+Express intent to ease economic sanctions, boycott, or embargo	212
+Engage in negotiation	213
+Sign formal agreement	214
+Appeal for rights	215
+Provide economic aid	216
+Accuse of crime, corruption	217
+Accede to requests or demands for political reform	218
+Reduce or stop military assistance	219
+Engage in judicial cooperation	220
+Occupy territory	221
+Cooperate militarily	222
+Detonate nuclear weapons	223
+Retreat or surrender militarily	224
+Torture	225
+Threaten to halt mediation	226
+Expel or withdraw	227
+Engage in political dissent	228
+Appeal for intelligence	229
