@@ -12,7 +12,7 @@
 
 例如：(Barack Obama, visits, Ukraine, 2014-07-08)
 
- ![](img\1.png)
+ ![](.\img\1.png)
 
 
 
@@ -20,7 +20,7 @@
 
 由于多了时间维度的考量，TTransE 的得分函数变为：
 
- ![](img\2.png" style="zoom:60%;" )
+ ![](\img\2.png" style="zoom:60%;" )
 
 其余方面则与 TransE 没有较大区别，由于上次作业已经详细介绍了 TransE 的原理，因此本次不再赘述。
 
