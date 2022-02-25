@@ -12,7 +12,7 @@
 
 例如：(Barack Obama, visits, Ukraine, 2014-07-08)
 
- ![](.\img\1.png)
+ ![](img\1.png)
 
 
 
